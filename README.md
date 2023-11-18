@@ -1,1 +1,2 @@
 # Terraform
+Terraform manages external resources (such as public cloud infrastructure, private cloud infrastructure, network appliances, software as a service, and platform as a service) with "providers". HashiCorp maintains an extensive list of official providers, and can also integrate with community-developed providers.[4] Users can interact with Terraform providers by declaring resources[5] or by calling data sources
